@@ -1,3 +1,4 @@
+
 import os
 from pathlib import Path
 
@@ -5,18 +6,26 @@ BASE_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = BASE_DIR.parent
 
 # Security & JWT
-SECRET_KEY = os.getenv("JWT_SECRET_KEY", "styleai-fashion-xai-super-secret-key-2026-luxury-jwt")
+SECRET_KEY = os.getenv(
+    "JWT_SECRET_KEY",
+    "local-development-only-change-this"
+)
 ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 24 * 7  # 7 days
+ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 24 * 7
 
-# Database path (SQLite for local storage of accounts & preferences)
-DB_PATH = BASE_DIR / "fashion_advisor.db"
+# Database path
+DB_PATH = Path(
+    os.getenv(
+        "SQLITE_DB_PATH",
+        str(BASE_DIR / "fashion_advisor.db")
+    )
+)
 DATABASE_URL = f"sqlite:///{DB_PATH}"
 
 # Privacy & Biometrics policy
-MAX_IMAGE_SIZE_BYTES = 10 * 1024 * 1024  # 10 MB
+MAX_IMAGE_SIZE_BYTES = 10 * 1024 * 1024
 ALLOWED_MIME_TYPES = ["image/jpeg", "image/png", "image/webp"]
-ENABLE_IN_MEMORY_ONLY = True  # Strict privacy: never persist biometrics to disk
+ENABLE_IN_MEMORY_ONLY = True
 
 # Data directories
 DATA_DIR = BASE_DIR / "data"
