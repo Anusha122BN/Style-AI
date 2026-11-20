@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MST-01",
+    "level": 1,
+    "name": "Monk Tone 01",
+    "description": "Very Fair / Porcelain",
+    "hex": "#f6ede4",
+    "rgb": [246, 237, 228],
+    "lab": [94.1, 1.8, 5.2],
+    "undertone_tendency": "Cool / Neutral",
+    "clothing_palette": ["Pastel Lilac", "Soft Rose", "Navy Blue", "Emerald Green", "Slate Grey"],
+    "foundation_code": "01-Porcelain-Fair"
+  },
+  {
+    "id": "MST-02",
+    "level": 2,
+    "name": "Monk Tone 02",
+    "description": "Fair / Ivory",
+    "hex": "#f3e7db",
+    "rgb": [243, 231, 219],
+    "lab": [92.0, 2.5, 7.3],
+    "undertone_tendency": "Neutral / Warm",
+    "clothing_palette": ["Champagne", "Dusty Rose", "Royal Blue", "Forest Green", "Soft Charcoal"],
+    "foundation_code": "02-Ivory-Light"
+  },
+  {
+    "id": "MST-03",
+    "level": 3,
+    "name": "Monk Tone 03",
+    "description": "Light / Sand",
+    "hex": "#f7ead0",
+    "rgb": [247, 234, 208],
+    "lab": [93.1, 1.2, 14.1],
+    "undertone_tendency": "Warm / Golden",
+    "clothing_palette": ["Warm Ivory", "Sage Green", "Terracotta", "Cobalt", "Taupe"],
+    "foundation_code": "03-Sand-Warm"
+  },
+  {
+    "id": "MST-04",
+    "level": 4,
+    "name": "Monk Tone 04",
+    "description": "Light Medium / Wheat",
+    "hex": "#eadaba",
+    "rgb": [234, 218, 186],
+    "lab": [87.5, 1.9, 17.5],
+    "undertone_tendency": "Neutral / Olive",
+    "clothing_palette": ["Olive Green", "Mustard Yellow", "Burgundy", "Navy", "Warm Beige"],
+    "foundation_code": "04-Wheat-Medium"
+  },
+  {
+    "id": "MST-05",
+    "level": 5,
+    "name": "Monk Tone 05",
+    "description": "Medium / Honey",
+    "hex": "#d7bd96",
+    "rgb": [215, 189, 150],
+    "lab": [77.5, 4.4, 23.3],
+    "undertone_tendency": "Warm / Golden",
+    "clothing_palette": ["Rich Teal", "Warm Gold", "Rust", "Emerald", "Chocolate Brown"],
+    "foundation_code": "05-Honey-Golden"
+  },
+  {
+    "id": "MST-06",
+    "level": 6,
+    "name": "Monk Tone 06",
+    "description": "Medium Tan / Caramel",
+    "hex": "#a07e56",
+    "rgb": [160, 126, 86],
+    "lab": [55.3, 8.8, 27.2],
+    "undertone_tendency": "Warm / Olive",
+    "clothing_palette": ["Deep Coral", "Peacock Blue", "Amber Gold", "Plum", "Warm Camel"],
+    "foundation_code": "06-Caramel-Tan"
+  },
+  {
+    "id": "MST-07",
+    "level": 7,
+    "name": "Monk Tone 07",
+    "description": "Tan / Bronze",
+    "hex": "#825c43",
+    "rgb": [130, 92, 67],
+    "lab": [42.1, 13.0, 20.8],
+    "undertone_tendency": "Warm / Neutral",
+    "clothing_palette": ["Tangerine", "Cobalt Blue", "Deep Fuchsia", "Warm Copper", "Ivory"],
+    "foundation_code": "07-Bronze-Deep"
+  },
+  {
+    "id": "MST-08",
+    "level": 8,
+    "name": "Monk Tone 08",
+    "description": "Deep / Chestnut",
+    "hex": "#604134",
+    "rgb": [96, 65, 52],
+    "lab": [30.4, 11.8, 14.1],
+    "undertone_tendency": "Cool / Red Warm",
+    "clothing_palette": ["Royal Purple", "Electric Blue", "Ruby Red", "Gold", "Crisp White"],
+    "foundation_code": "08-Chestnut-Rich"
+  },
+  {
+    "id": "MST-09",
+    "level": 9,
+    "name": "Monk Tone 09",
+    "description": "Deep Rich / Espresso",
+    "hex": "#3a312a",
+    "rgb": [58, 49, 42],
+    "lab": [21.3, 3.2, 5.8],
+    "undertone_tendency": "Neutral / Cool",
+    "clothing_palette": ["Vivid Magenta", "Bright Chartreuse", "Bright Turquoise", "Canary Yellow", "Silver"],
+    "foundation_code": "09-Espresso-Deep"
+  },
+  {
+    "id": "MST-10",
+    "level": 10,
+    "name": "Monk Tone 10",
+    "description": "Rich Ebony",
+    "hex": "#292420",
+    "rgb": [41, 36, 32],
+    "lab": [15.1, 1.9, 3.3],
+    "undertone_tendency": "Cool / Deep Neutral",
+    "clothing_palette": ["Pure White", "Neon Orange", "Cobalt Blue", "Vibrant Violet", "Rich Gold"],
+    "foundation_code": "10-Ebony-Rich"
+  }
+]

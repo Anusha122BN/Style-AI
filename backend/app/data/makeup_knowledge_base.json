@@ -1,0 +1,335 @@
+{
+  "foundation_shades": [
+    {
+      "monk_range": [1, 2],
+      "tone_name": "Porcelain & Fair Ivory",
+      "undertones": {
+        "Cool": {
+          "shade_name": "Fair Alabaster / Rosy Ivory",
+          "undertone_match": "Subtle pink / cool blue undertone match",
+          "comparison": "Prevents ashy or orange cast; preserves translucent luminosity",
+          "recommended_finish": "Dewy or Satin Liquid Foundation",
+          "search_query": "fair cool ivory liquid foundation satin finish"
+        },
+        "Warm": {
+          "shade_name": "Pale Bisque / Warm Ivory",
+          "undertone_match": "Soft yellow / golden undertone match",
+          "comparison": "Neutralizes surface redness without overpowering delicate fair skin",
+          "recommended_finish": "Lightweight Hydrating Serum Foundation",
+          "search_query": "warm ivory light serum foundation yellow undertone"
+        },
+        "Neutral": {
+          "shade_name": "True Ivory / Neutral Fair",
+          "undertone_match": "Equal balance of warm and cool pigments",
+          "comparison": "Matches neck seamlessly without shifting pink or yellow",
+          "recommended_finish": "Soft-Matte Foundation",
+          "search_query": "neutral ivory fair foundation soft matte"
+        },
+        "Olive": {
+          "shade_name": "Pale Muted Olive / Sand Fair",
+          "undertone_match": "Subtle greenish-grey neutral undertone",
+          "comparison": "Avoids typical pink cast found in conventional fair foundations",
+          "recommended_finish": "Natural Satin Foundation",
+          "search_query": "fair olive undertone foundation satin"
+        }
+      }
+    },
+    {
+      "monk_range": [3, 4],
+      "tone_name": "Light & Wheat Medium",
+      "undertones": {
+        "Cool": {
+          "shade_name": "Rose Beige / Cool Sand",
+          "undertone_match": "Cool rose undertone match",
+          "comparison": "Brightens complexion without looking chalky",
+          "recommended_finish": "Luminous Glow Foundation",
+          "search_query": "cool beige liquid foundation luminous"
+        },
+        "Warm": {
+          "shade_name": "Golden Wheat / Warm Sand",
+          "undertone_match": "Golden peach / warm amber undertone match",
+          "comparison": "Enhances natural sun-kissed warmth without turning brassy",
+          "recommended_finish": "Hydrating Medium Coverage Foundation",
+          "search_query": "warm sand golden wheat foundation medium coverage"
+        },
+        "Neutral": {
+          "shade_name": "Classic Buff / Neutral Wheat",
+          "undertone_match": "Balanced beige without strong yellow or pink tilt",
+          "comparison": "Seamlessly transitions from face to décolletage",
+          "recommended_finish": "Velvet Touch Foundation",
+          "search_query": "neutral buff wheat foundation natural finish"
+        },
+        "Olive": {
+          "shade_name": "Light Olive / Muted Golden Sage",
+          "undertone_match": "Clear olive green-leaning undertone",
+          "comparison": "Prevents foundation from looking muddy or overly peach",
+          "recommended_finish": "Skin-Like Satin Matte Foundation",
+          "search_query": "light medium olive foundation"
+        }
+      }
+    },
+    {
+      "monk_range": [5, 6],
+      "tone_name": "Medium & Warm Honey / Caramel",
+      "undertones": {
+        "Cool": {
+          "shade_name": "Amber Tawny / Cool Tan",
+          "undertone_match": "Subtle cool red / neutral berry undertone",
+          "comparison": "Deepens skin depth gracefully without looking grey",
+          "recommended_finish": "Natural Radiance Liquid Foundation",
+          "search_query": "medium tan cool undertone foundation"
+        },
+        "Warm": {
+          "shade_name": "Warm Honey / Golden Caramel",
+          "undertone_match": "Rich golden yellow / bronze undertone",
+          "comparison": "Accentuates golden radiance; perfectly balances hyperpigmentation",
+          "recommended_finish": "Longwear Soft Matte Foundation",
+          "search_query": "warm honey golden caramel liquid foundation"
+        },
+        "Neutral": {
+          "shade_name": "True Praline / Neutral Medium Tan",
+          "undertone_match": "Balanced terracotta-beige pigments",
+          "comparison": "Maintains uniform natural complexion in daylight and studio lights",
+          "recommended_finish": "Build-to-Medium Serum Foundation",
+          "search_query": "neutral caramel tan liquid foundation"
+        },
+        "Olive": {
+          "shade_name": "Rich Warm Olive / Golden Khaki",
+          "undertone_match": "Prominent green-golden undertone",
+          "comparison": "Eliminates the orange mask effect frequent in warm foundations",
+          "recommended_finish": "Weightless Breathable Foundation",
+          "search_query": "medium warm olive undertone foundation"
+        }
+      }
+    },
+    {
+      "monk_range": [7, 8],
+      "tone_name": "Tan Bronze & Deep Chestnut",
+      "undertones": {
+        "Cool": {
+          "shade_name": "Spiced Cocoa / Cool Chestnut",
+          "undertone_match": "Rich red-violet and cool cocoa undertones",
+          "comparison": "Reflects deep dimensional light without flat chalkiness",
+          "recommended_finish": "Hydrating Satin Finish Foundation",
+          "search_query": "cool chestnut deep red undertone foundation"
+        },
+        "Warm": {
+          "shade_name": "Deep Bronze / Warm Amber Mahogany",
+          "undertone_match": "Golden copper and rich amber warmth",
+          "comparison": "Celebrates deep sunlit golden undertones effortlessly",
+          "recommended_finish": "Luminous Oil-Control Foundation",
+          "search_query": "deep bronze warm amber foundation longwear"
+        },
+        "Neutral": {
+          "shade_name": "Sienna Truffle / Neutral Deep",
+          "undertone_match": "Equal distribution of chocolate and cool base pigments",
+          "comparison": "True-to-skin color match with zero flashback",
+          "recommended_finish": "Soft Velvet Fluid Foundation",
+          "search_query": "neutral deep chestnut sienna foundation"
+        },
+        "Olive": {
+          "shade_name": "Deep Olive Bronze",
+          "undertone_match": "Muted golden olive in deep depth",
+          "comparison": "Maintains earthy clarity without reddening the facial perimeter",
+          "recommended_finish": "Natural Satin Foundation",
+          "search_query": "deep olive bronze foundation"
+        }
+      }
+    },
+    {
+      "monk_range": [9, 10],
+      "tone_name": "Deep Rich Espresso & Ebony",
+      "undertones": {
+        "Cool": {
+          "shade_name": "Midnight Espresso / Blue-Black Cool",
+          "undertone_match": "Cool blue/violet rich undertones",
+          "comparison": "Preserves deep contrast clarity with zero ashy residue",
+          "recommended_finish": "Radiant Dewy or Soft Focus Liquid Foundation",
+          "search_query": "deep rich espresso cool undertone liquid foundation"
+        },
+        "Warm": {
+          "shade_name": "Roasted Mocha / Deep Warm Umber",
+          "undertone_match": "Rich red-bronze undertones",
+          "comparison": "Brings out vibrant golden-red depths in deep skin tones",
+          "recommended_finish": "Hydrating Velvet Foundation",
+          "search_query": "deep rich mocha warm red undertone foundation"
+        },
+        "Neutral": {
+          "shade_name": "Pure Ebony / Neutral Obsidian",
+          "undertone_match": "Balanced deep carbon-chocolate neutral",
+          "comparison": "Uniform high-definition coverage without yellow or pink distortion",
+          "recommended_finish": "Transfer-Proof Natural Matte",
+          "search_query": "ebony neutral rich deep liquid foundation"
+        },
+        "Olive": {
+          "shade_name": "Deep Earth Muted Umber",
+          "undertone_match": "Deep neutral-olive earthy undertone",
+          "comparison": "Maintains natural harmony with deep undertone complexions",
+          "recommended_finish": "Radiant Serum Foundation",
+          "search_query": "deep espresso olive undertone foundation"
+        }
+      }
+    }
+  ],
+  "lipsticks": [
+    {
+      "shade_family": "Nude",
+      "Warm": { "name": "Peachy Warm Nude", "hex": "#C98A72", "description": "Soft warm beige with peach base that brightens warm complexions without washing out." },
+      "Cool": { "name": "Rosy Pink Nude", "hex": "#B77579", "description": "Cool mauve-pink nude that matches natural lip flush seamlessly." },
+      "Neutral": { "name": "Classic Balanced Nude", "hex": "#BD887A", "description": "Versatile neutral beige that works across day and night looks." },
+      "Olive": { "name": "Warm Cinnamon Nude", "hex": "#B3735B", "description": "Toasted warm brown-nude that harmonizes with olive green undertones." },
+      "search_query": "nude matte lipstick hydrating"
+    },
+    {
+      "shade_family": "Red",
+      "Warm": { "name": "Fiery Brick Coral Red", "hex": "#B83A26", "description": "Warm tomato and brick red that brings dynamic radiant warmth." },
+      "Cool": { "name": "Blue-Based Ruby Red", "hex": "#9B111E", "description": "Classic Marilyn ruby red with blue undertones that makes teeth look visibly whiter." },
+      "Neutral": { "name": "True Iconic Crimson", "hex": "#A91D22", "description": "Pure balanced red that pops symmetrically on all skin tones." },
+      "Olive": { "name": "Rust Terracotta Red", "hex": "#A03E2D", "description": "Earthy rust red that balances greenish undertones magnificently." },
+      "search_query": "ruby red longwear lipstick"
+    },
+    {
+      "shade_family": "Pink",
+      "Warm": { "name": "Warm Guava Coral Pink", "hex": "#D96C75", "description": "Vibrant peachy pink that highlights golden warmth." },
+      "Cool": { "name": "Cool Rose Petal", "hex": "#C75D81", "description": "Crisp berry-pink that harmonizes with cool skin undertones." },
+      "Neutral": { "name": "Dusty Rose Pink", "hex": "#BC6C82", "description": "Understated sophisticated rose suitable for everyday work and university." },
+      "Olive": { "name": "Watermelon Salmon Pink", "hex": "#D16666", "description": "Earthy coral-pink that pops against muted olive skin without clashing." },
+      "search_query": "dusty rose pink velvet lipstick"
+    },
+    {
+      "shade_family": "Brown",
+      "Warm": { "name": "Warm Caramel Macchiato", "hex": "#8A4D2E", "description": "Golden coffee brown that adds 90s supermodel glamour to warm tones." },
+      "Cool": { "name": "Cool Grey-Brown Greige", "hex": "#73534B", "description": "Chic espresso greige that flatters cool-toned beauty aesthetics." },
+      "Neutral": { "name": "Rich Milk Chocolate", "hex": "#784B3A", "description": "Universally flattering neutral cocoa brown for all occasions." },
+      "Olive": { "name": "Chestnut Bronze Brown", "hex": "#854E38", "description": "Golden-toned earthy chestnut that highlights olive depth." },
+      "search_query": "brown cocoa matte lipstick"
+    },
+    {
+      "shade_family": "Berry & Maroon",
+      "Warm": { "name": "Warm Spiced Cranberry", "hex": "#852636", "description": "Deep cranberry red with golden sheen for celebratory nights." },
+      "Cool": { "name": "Cool Boysenberry Wine", "hex": "#6E1B3B", "description": "Dramatic cool violet-berry that adds regal distinction." },
+      "Neutral": { "name": "Deep Bordeaux Maroon", "hex": "#581825", "description": "Rich velvet maroon that commands attention in formal occasions." },
+      "Olive": { "name": "Blackberry Plum", "hex": "#5E2235", "description": "Deep moody plum that creates striking editorial contrast." },
+      "search_query": "berry maroon matte liquid lipstick"
+    },
+    {
+      "shade_family": "Peach & Mauve",
+      "Warm": { "name": "Golden Apricot Peach", "hex": "#D9825B", "description": "Youthful sunkissed peach perfect for spring and day events." },
+      "Cool": { "name": "Lilac Dusk Mauve", "hex": "#9E6B7A", "description": "Subtle purple-grey mauve providing understated Parisian chic." },
+      "Neutral": { "name": "Spiced Mauve Nude", "hex": "#AA726B", "description": "Harmonious bridge between pink and brown." },
+      "Olive": { "name": "Terracotta Peach", "hex": "#C27052", "description": "Grounded peach that adds radiant vitality to olive complexions." },
+      "search_query": "mauve peach velvet matte lipstick"
+    }
+  ],
+  "eyeliners": [
+    { "shade": "Classic Jet Black", "hex": "#0D0D0D", "best_for": "High-contrast winged liner, dramatic cat-eye, nighttime looks.", "search_query": "waterproof jet black liquid eyeliner pen" },
+    { "shade": "Rich Espresso Brown", "hex": "#3D261A", "best_for": "Soft daytime definition, workwear, subtle tightlining without harsh lines.", "search_query": "espresso brown gel eyeliner pencil" },
+    { "shade": "Deep Midnight Navy", "hex": "#1B2838", "best_for": "Cool undertones; makes white of eyes sparkle and pop.", "search_query": "midnight navy blue waterproof eyeliner" },
+    { "shade": "Royal Burgundy Plum", "hex": "#4A1828", "best_for": "Green, hazel and warm brown eyes; brings out enchanting contrast.", "search_query": "burgundy wine gel eyeliner" },
+    { "shade": "Smoky Charcoal", "hex": "#2F353B", "best_for": "Soft smudged smoky looks that are softer than stark jet black.", "search_query": "charcoal grey smudge proof eyeliner" }
+  ],
+  "eyeshadow_palettes": [
+    {
+      "id": "ES-01",
+      "name": "Champagne & Warm Bronze Palette",
+      "best_undertone": "Warm",
+      "shades": ["Champagne Shimmer", "Gilded Gold", "Warm Bronze", "Deep Espresso", "Copper Leaf"],
+      "description": "Golden and bronze metallics that illuminate warm and olive skin tones magnificently.",
+      "search_query": "warm bronze gold eyeshadow palette"
+    },
+    {
+      "id": "ES-02",
+      "name": "Rose Gold & Cool Plum Elegance",
+      "best_undertone": "Cool",
+      "shades": ["Pearl Pink", "Rose Gold Foil", "Dusty Mauve", "Smoky Plum", "Deep Amethyst"],
+      "description": "Luminous cool rose gold and rich plum shades that accentuate cool undertones.",
+      "search_query": "rose gold plum cool tone eyeshadow palette"
+    },
+    {
+      "id": "ES-03",
+      "name": "Sienna & Terracotta Copper Palette",
+      "best_undertone": "Olive",
+      "shades": ["Raw Terracotta", "Burnished Copper", "Warm Ochre", "Olive Khaki", "Rich Mahogany"],
+      "description": "Earthy copper and olive khaki shades designed to harmonize with olive complexions.",
+      "search_query": "terracotta copper earthy eyeshadow palette"
+    },
+    {
+      "id": "ES-04",
+      "name": "Universal Nude Neutral Essentials",
+      "best_undertone": "Neutral",
+      "shades": ["Soft Cream", "Almond Bisque", "Warm Taupe", "Rich Cocoa", "Satin Charcoal"],
+      "description": "Perfect balance of matte transitions and satin highlights for all skin depths.",
+      "search_query": "universal neutral matte eyeshadow palette"
+    }
+  ],
+  "blushes": [
+    { "shade": "Warm Peach Coral", "undertone": "Warm", "hex": "#E07A5F", "description": "Injects natural sunlit warmth to cheeks without looking pink.", "search_query": "peach coral powder blush" },
+    { "shade": "Soft Rosy Berry", "undertone": "Cool", "hex": "#C4496B", "description": "Gives a fresh, just-pinched cool winter flush.", "search_query": "rosy berry cool tone blush" },
+    { "shade": "Terracotta Amber", "undertone": "Olive", "hex": "#BD5D38", "description": "Earthy burnt amber that lifts olive tones into golden warmth.", "search_query": "terracotta warm blush olive skin" },
+    { "shade": "Dusty Neutral Rose", "undertone": "Neutral", "hex": "#C27D86", "description": "Foolproof day-to-night neutral blush that never overpowers.", "search_query": "dusty rose mineral blush" }
+  ],
+  "highlighters": [
+    { "shade": "Champagne Pearl", "undertone": "Cool", "hex": "#F0E4D7", "description": "Luminous silvery-champagne that imparts glass-skin radiance.", "search_query": "champagne pearl liquid highlighter" },
+    { "shade": "Warm Golden Honey", "undertone": "Warm", "hex": "#E8C172", "description": "True molten gold that melts into warm golden skin.", "search_query": "golden bronze shimmer highlighter" },
+    { "shade": "Rose Gold Twilight", "undertone": "Neutral", "hex": "#E8B2A7", "description": "Blush-gold luminescence adding romantic softness to high cheekbones.", "search_query": "rose gold baked highlighter" },
+    { "shade": "Rich Bronze Amber", "undertone": "Olive", "hex": "#B8864E", "description": "Deep metallic bronze that flatters medium, tan, and olive depths.", "search_query": "bronze amber glow highlighter" }
+  ],
+  "occasion_presets": {
+    "Daily makeup": {
+      "focus": "Effortless, fresh-faced vitality",
+      "base": "Lightweight tinted moisturizer / BB cream with SPF",
+      "eyes": "Mascara with brown gel eyeliner tightlining",
+      "cheeks": "Dab of peach or rosy cream blush",
+      "lips": "Hydrating nude tinted lip balm"
+    },
+    "College makeup": {
+      "focus": "Youthful, natural, long-lasting",
+      "base": "Concealer spot-coverage with compact powder T-zone set",
+      "eyes": "Curled lashes, soft winged liquid liner, groomed brows",
+      "cheeks": "Natural flush powder blush",
+      "lips": "Mauve or peachy soft matte lip tint"
+    },
+    "Office makeup": {
+      "focus": "Polished, professional, smudge-resistant",
+      "base": "Longwear soft-matte foundation with satin powder finish",
+      "eyes": "Matte neutral eyeshadow, neat espresso eyeliner",
+      "cheeks": "Dusty rose blush applied along cheekbones",
+      "lips": "Velvet transfer-resistant nude-pink or soft berry lipstick"
+    },
+    "Party makeup": {
+      "focus": "Luminous glow and statement focal point",
+      "base": "Full coverage luminous foundation with contour sculpting",
+      "eyes": "Shimmer metallic bronze/rose gold eyeshadow with bold jet black wing",
+      "cheeks": "Vibrant blush topped with radiant champagne highlighter",
+      "lips": "Bold red or dark berry satin lipstick"
+    },
+    "Wedding makeup": {
+      "focus": "High-definition, photography-ready, regal elegance",
+      "base": "Camera-ready HD satin foundation, baking under eyes and jaw",
+      "eyes": "Cut-crease gold/bronze eyeshadow, voluminous false lashes, deep kajal",
+      "cheeks": "Sculpted contour with warm blush and golden highlighter",
+      "lips": "Longwear rich ruby or crimson red lipstick with lip liner"
+    },
+    "Traditional makeup": {
+      "focus": "Ethnic grace, kohled eyes, radiant glow",
+      "base": "Medium dewy foundation with warm golden undertone enhancement",
+      "eyes": "Intense black kajal on waterlines, smoked out lower lashline",
+      "cheeks": "Warm terracotta or coral blush",
+      "lips": "Warm brick red, marigold berry, or deep plum lipstick with bindi"
+    },
+    "Minimal makeup": {
+      "focus": "'No-makeup' makeup enhancing clean skin architecture",
+      "base": "Serum skin tint with luminous spot concealer",
+      "eyes": "Clear brow gel and brown defining mascara",
+      "cheeks": "Dewy cheek tint pressed with fingertips",
+      "lips": "Lip oil in natural rose or sheer nude"
+    },
+    "Glam makeup": {
+      "focus": "Editorial perfection, sharp contrast, intense radiance",
+      "base": "Matte porcelain or velvet deep base with contrast baking",
+      "eyes": "Smoky halo eye with glitter topper and graphic eyeliner",
+      "cheeks": "Dramatic contour and multi-dimensional highlighter",
+      "lips": "Ombré lined lip with glossy nude center"
+    }
+  }
+}
