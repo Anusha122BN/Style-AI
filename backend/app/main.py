@@ -13,7 +13,7 @@ from app.cv.visualizer import LandmarkVisualizer
 from app.engines.body_shape import BodyShapeClassifier
 from app.engines.dress_advisor import DressAdvisor
 from app.engines.makeup_advisor import MakeupAdvisor
-from app.engines.color_advisor import ColorAdvisorjj
+from app.engines.color_advisor import ColorAdvisor
 from app.engines.xai_explainer import XAIExplainerEngine
 from app.engines.shopping import ShoppingEngine
 from app.engines.chat_engine import ChatEngine
